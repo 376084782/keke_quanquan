@@ -1,0 +1,69 @@
+
+taoquan.png
+size: 1308,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanghuan
+  rotate: true
+  xy: 987, 35
+  size: 216, 192
+  orig: 216, 192
+  offset: 0, 0
+  index: -1
+guangyun_yuan01
+  rotate: false
+  xy: 735, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+guangzhu
+  rotate: false
+  xy: 1, 55
+  size: 732, 196
+  orig: 732, 196
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: true
+  xy: 1181, 134
+  size: 117, 126
+  orig: 117, 126
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: false
+  xy: 1, 13
+  size: 240, 40
+  orig: 240, 40
+  offset: 0, 0
+  index: -1
+xingxing1_1
+  rotate: false
+  xy: 1181, 71
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+xingxing2_1
+  rotate: false
+  xy: 1244, 71
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+xingxing3_1
+  rotate: false
+  xy: 1181, 8
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+yuandian
+  rotate: false
+  xy: 243, 3
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
