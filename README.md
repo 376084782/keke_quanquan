@@ -11,9 +11,10 @@ cocos creator 2.4.3
     // testHost: 'ws://localhost:3001'
   }
 ``` 
-2. 打包后文件位置：build/web-mobile 发布到静态资源服务器
+2. 打包后文件位置：build/web-mobile 将之发布到静态资源服务器
 
 ## 文件说明
+```
 -assets
   -commonScripts 通用脚本文件
   -design 设计稿
@@ -29,3 +30,4 @@ cocos creator 2.4.3
     -modal 弹窗相关
     -scene 场景相关
   Interface.ts 公共接口声明
+  ```
