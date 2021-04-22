@@ -1,6 +1,18 @@
 ## 引擎使用
 cocos creator 2.4.3
 引擎使用详见cocos官网
+## 发布说明
+1. 检查配置文件ws指向 build/web-mobile/index.html下配置
+```
+  window.kkUrlConfig = {
+    isApp: true,
+    wsHost: 'wss://ztaudio-roomgame.qianyancm.com:3002',
+    testHost: 'ws://39.101.162.107:3001'
+    // testHost: 'ws://localhost:3001'
+  }
+``` 
+2. 打包后文件位置：build/web-mobile 发布到静态资源服务器
+
 ## 文件说明
 -assets
   -commonScripts 通用脚本文件
