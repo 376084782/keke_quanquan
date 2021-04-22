@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created using Glyph Designer - http://71squared.com/glyphdesigner-->
+<font>
+    <info face="FZCuYuan-M03S" size="64" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="2,2"/>
+    <common lineHeight="82" base="57" scaleW="504" scaleH="483" pages="1" packed="0"/>
+    <pages>
+        <page id="0" file="btn.png"/>
+    </pages>
+    <chars count="41">
+        <char id="40" x="321" y="249" width="34" height="77" xoffset="-8" yoffset="10" xadvance="15" page="0" chnl="0" letter="()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="41" x="357" y="249" width="34" height="77" xoffset="-10" yoffset="10" xadvance="15" page="0" chnl="0" letter=")一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="44" x="104" y="398" width="35" height="40" xoffset="-10" yoffset="46" xadvance="17" page="0" chnl="0" letter=",.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="45" x="293" y="398" width="56" height="29" xoffset="-8" yoffset="37" xadvance="38" page="0" chnl="0" letter="-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="46" x="177" y="398" width="32" height="31" xoffset="-7" yoffset="47" xadvance="17" page="0" chnl="0" letter=".。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="48" x="2" y="328" width="55" height="68" xoffset="-9" yoffset="10" xadvance="37" page="0" chnl="0" letter="0-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="49" x="446" y="328" width="39" height="67" xoffset="-9" yoffset="11" xadvance="24" page="0" chnl="0" letter="1234567890-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="50" x="281" y="328" width="52" height="68" xoffset="-7" yoffset="10" xadvance="37" page="0" chnl="0" letter="234567890-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="51" x="171" y="328" width="53" height="68" xoffset="-8" yoffset="10" xadvance="37" page="0" chnl="0" letter="34567890-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="52" x="393" y="249" width="56" height="68" xoffset="-9" yoffset="10" xadvance="37" page="0" chnl="0" letter="4567890-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="53" x="391" y="328" width="53" height="67" xoffset="-8" yoffset="11" xadvance="37" page="0" chnl="0" letter="567890-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="54" x="59" y="328" width="54" height="68" xoffset="-8" yoffset="10" xadvance="37" page="0" chnl="0" letter="67890-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="55" x="335" y="328" width="54" height="67" xoffset="-9" yoffset="11" xadvance="34" page="0" chnl="0" letter="7890-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="56" x="226" y="328" width="53" height="68" xoffset="-8" yoffset="10" xadvance="37" page="0" chnl="0" letter="890-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="57" x="115" y="328" width="54" height="68" xoffset="-8" yoffset="10" xadvance="37" page="0" chnl="0" letter="90-=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="61" x="2" y="398" width="56" height="44" xoffset="-8" yoffset="29" xadvance="38" page="0" chnl="0" letter="=,.。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="12290" x="60" y="398" width="42" height="42" xoffset="-4" yoffset="43" xadvance="64" page="0" chnl="0" letter="。，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="19968" x="211" y="398" width="80" height="30" xoffset="-7" yoffset="29" xadvance="64" page="0" chnl="0" letter="一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="20102" x="165" y="249" width="76" height="77" xoffset="-5" yoffset="8" xadvance="64" page="0" chnl="0" letter="了"/>
+        <char id="20851" x="85" y="86" width="80" height="80" xoffset="-7" yoffset="5" xadvance="64" page="0" chnl="0" letter="关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="20877" x="168" y="168" width="80" height="78" xoffset="-7" yoffset="7" xadvance="64" page="0" chnl="0" letter="再准备取消退出返回游戏我知道了"/>
+        <char id="20934" x="2" y="2" width="80" height="82" xoffset="-8" yoffset="4" xadvance="64" page="0" chnl="0" letter="准备取消退出返回游戏我知道了"/>
+        <char id="20986" x="414" y="168" width="74" height="78" xoffset="-4" yoffset="5" xadvance="64" page="0" chnl="0" letter="出返回游戏我知道了"/>
+        <char id="21462" x="84" y="168" width="82" height="78" xoffset="-8" yoffset="7" xadvance="64" page="0" chnl="0" letter="取消退出返回游戏我知道了"/>
+        <char id="22238" x="243" y="249" width="76" height="77" xoffset="-5" yoffset="6" xadvance="64" page="0" chnl="0" letter="回游戏我知道了"/>
+        <char id="22791" x="2" y="168" width="80" height="79" xoffset="-7" yoffset="5" xadvance="64" page="0" chnl="0" letter="备取消退出返回游戏我知道了"/>
+        <char id="22987" x="2" y="86" width="81" height="80" xoffset="-7" yoffset="4" xadvance="64" page="0" chnl="0" letter="始确定再准备取消退出返回游戏我知道了"/>
+        <char id="23450" x="249" y="86" width="79" height="80" xoffset="-6" yoffset="5" xadvance="64" page="0" chnl="0" letter="定再准备取消退出返回游戏我知道了"/>
+        <char id="23616" x="84" y="249" width="79" height="77" xoffset="-8" yoffset="7" xadvance="64" page="0" chnl="0" letter="局关闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="24320" x="250" y="168" width="80" height="78" xoffset="-7" yoffset="7" xadvance="64" page="0" chnl="0" letter="开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="25103" x="168" y="2" width="80" height="81" xoffset="-8" yoffset="4" xadvance="64" page="0" chnl="0" letter="戏我知道了"/>
+        <char id="25105" x="167" y="86" width="80" height="80" xoffset="-8" yoffset="5" xadvance="64" page="0" chnl="0" letter="我知道了"/>
+        <char id="28040" x="250" y="2" width="79" height="81" xoffset="-7" yoffset="4" xadvance="64" page="0" chnl="0" letter="消退出返回游戏我知道了"/>
+        <char id="28216" x="409" y="86" width="82" height="79" xoffset="-8" yoffset="5" xadvance="64" page="0" chnl="0" letter="游戏我知道了"/>
+        <char id="30693" x="330" y="86" width="77" height="80" xoffset="-6" yoffset="4" xadvance="64" page="0" chnl="0" letter="知道了"/>
+        <char id="30830" x="331" y="2" width="79" height="81" xoffset="-7" yoffset="4" xadvance="64" page="0" chnl="0" letter="确定再准备取消退出返回游戏我知道了"/>
+        <char id="36820" x="2" y="249" width="80" height="77" xoffset="-7" yoffset="6" xadvance="64" page="0" chnl="0" letter="返回游戏我知道了"/>
+        <char id="36864" x="332" y="168" width="80" height="78" xoffset="-7" yoffset="6" xadvance="64" page="0" chnl="0" letter="退出返回游戏我知道了"/>
+        <char id="36947" x="84" y="2" width="82" height="81" xoffset="-7" yoffset="4" xadvance="64" page="0" chnl="0" letter="道了"/>
+        <char id="38381" x="412" y="2" width="76" height="81" xoffset="-5" yoffset="3" xadvance="64" page="0" chnl="0" letter="闭开始确定再准备取消退出返回游戏我知道了"/>
+        <char id="65292" x="141" y="398" width="34" height="40" xoffset="0" yoffset="47" xadvance="64" page="0" chnl="0" letter="，()一局关闭开始确定再准备取消退出返回游戏我知道了"/>
+    </chars>
+    <kernings count="0"/>
+</font>

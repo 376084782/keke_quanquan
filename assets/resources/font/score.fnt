@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created using Glyph Designer - http://71squared.com/glyphdesigner-->
+<font>
+    <info face="字魂16号-能源黑体" size="50" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="2,2"/>
+    <common lineHeight="78" base="50" scaleW="293" scaleH="242" pages="1" packed="0"/>
+    <pages>
+        <page id="0" file="score.png"/>
+    </pages>
+    <chars count="10">
+        <char id="48" x="2" y="82" width="74" height="77" xoffset="-19" yoffset="12" xadvance="35" page="0" chnl="0" letter="0"/>
+        <char id="49" x="219" y="161" width="59" height="77" xoffset="-22" yoffset="12" xadvance="21" page="0" chnl="0" letter="1"/>
+        <char id="50" x="75" y="161" width="70" height="77" xoffset="-20" yoffset="12" xadvance="31" page="0" chnl="0" letter="2"/>
+        <char id="51" x="78" y="82" width="71" height="77" xoffset="-20" yoffset="13" xadvance="31" page="0" chnl="0" letter="3"/>
+        <char id="52" x="151" y="82" width="71" height="77" xoffset="-21" yoffset="12" xadvance="31" page="0" chnl="0" letter="4"/>
+        <char id="53" x="2" y="161" width="71" height="77" xoffset="-19" yoffset="13" xadvance="32" page="0" chnl="0" letter="5"/>
+        <char id="54" x="75" y="2" width="70" height="78" xoffset="-20" yoffset="12" xadvance="31" page="0" chnl="0" letter="6"/>
+        <char id="55" x="147" y="161" width="70" height="77" xoffset="-19" yoffset="12" xadvance="30" page="0" chnl="0" letter="7"/>
+        <char id="56" x="2" y="2" width="71" height="78" xoffset="-20" yoffset="12" xadvance="31" page="0" chnl="0" letter="8"/>
+        <char id="57" x="147" y="2" width="70" height="78" xoffset="-20" yoffset="12" xadvance="31" page="0" chnl="0" letter="9"/>
+    </chars>
+    <kernings count="0"/>
+</font>
